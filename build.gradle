@@ -1,6 +1,6 @@
 plugins {
   id 'java'
-  id 'org.springframework.boot' version '1.5.15.RELEASE'
+  id 'org.springframework.boot' version '1.5.16.RELEASE'
   id 'eclipse'
   id 'jacoco'
   id 'checkstyle'
